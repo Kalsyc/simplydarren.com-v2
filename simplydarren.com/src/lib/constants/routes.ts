@@ -4,8 +4,8 @@ export interface RouteDetail {
 }
 
 export const routes: RouteDetail[] = [
-  {routeName: "Home", routePath: "/"},
-  {routeName: "About", routePath: "/about"},
-  {routeName: "Resume", routePath: "/resume"},
-  {routeName: "Projects", routePath: "/projects"},
+  {routeName: "Home", routePath: ""},
+  {routeName: "About", routePath: "about"},
+  {routeName: "Resume", routePath: "resume"},
+  {routeName: "Projects", routePath: "projects"},
 ]

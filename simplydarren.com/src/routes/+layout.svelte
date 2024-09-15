@@ -36,7 +36,7 @@
 		padding: 1rem 2rem;
 	}
 
-	@media screen and (min-width: 600px) {
+	@media screen and (min-width: 768px) {
 		.layout__header {
 			position: relative;
 			border-bottom: none;
